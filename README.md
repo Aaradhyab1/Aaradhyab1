@@ -3,7 +3,7 @@
 I’m a developer and a **CSE student** with experience in building **backend architectures**. Currently, I'm bridging that experience into **AI/ML** to have an actual impact on real-world problems.
 
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-1e2327?style=for-the-badge&logo=python" height="32" />&nbsp;&nbsp;
