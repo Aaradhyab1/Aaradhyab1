@@ -21,5 +21,5 @@ I’m a developer and a **CSE student** with experience in building **backend ar
 *   **DefeX** 🏭:Anomaly detection edge server for SME micro-manufacturing. Brought precision to small-scale industry; National Finalist at Ignisia Hackathon.
   
 *   **Retentio** 🧠: Productivity system using the FSRS algorithm to map the memory decay curve. Optimizes active recall and spaced repetition.
-*   
-*   **Semantic** 🔍:AI/ML pipelines for text extraction and processing, turning unstructured data into actionable insights.
+  
+*   **Semantic** 🔍:Engineering AI/ML pipelines to solve real-world bottlenecks by extracting text and transforming unstructured data into actionable insights.
