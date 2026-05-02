@@ -3,7 +3,7 @@
 I’m a developer and a **CSE student** with experience in building **backend architectures**. Currently, I'm bridging that experience into **AI/ML** to have an actual impact on real-world problems.
 
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-1e2327?style=for-the-badge&logo=python" height="32" />&nbsp;&nbsp;
@@ -16,10 +16,15 @@ I’m a developer and a **CSE student** with experience in building **backend ar
   <img src="https://img.shields.io/badge/CSS3-1e2327?style=for-the-badge&logo=css3" height="32" />
 </p>
 
-# 🚀 Projects 
+## 🚀 Projects 
 
-*   **DefeX** 🏭:Anomaly detection edge server for SME micro-manufacturing. Brought precision to small-scale industry; National Finalist at Ignisia Hackathon.
+*   **DefeX** 🏭:Anomaly detection edge server for SME micro-manufacturing. Brought precision to small-scale industry, National Finalist at Ignisia Hackathon.
   
 *   **Retentio** 🧠: Productivity system using the FSRS algorithm to map the memory decay curve. Optimizes active recall and spaced repetition.
   
 *   **Semantic** 🔍:Engineering AI/ML pipelines to solve real-world bottlenecks by extracting text and transforming unstructured data into actionable insights.
+
+
+## 💼 Leadership
+
+* **Software Head @ Innovation Hub** (Dev Lead), **Technical Head @ R.I.D.E. 2025** (System Ops), and **Core Crew @ LocalHost HQ** (AI Festival Partnerships).
