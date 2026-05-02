@@ -27,4 +27,6 @@ I’m a developer and a **CSE student** with experience in building **backend ar
 
 ## 💼 Leadership
 
-* **Software Head @ Innovation Hub** (Dev Lead), **Technical Head @ R.I.D.E. 2025** (System Ops), and **Core Crew @ LocalHost HQ** (AI Festival Partnerships).
+* **Software Head @ Innovation Hub**, **Technical Head @ R.I.D.E. 2025**, and **Core Crew @ LocalHost HQ** (AI Festival).
+
+
