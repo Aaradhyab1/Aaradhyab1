@@ -33,6 +33,5 @@ I’m a developer and a **CSE student** with experience in building **backend ar
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aaradhya-banginwar/"><img src="https://img.shields.io/badge/LinkedIn-1e2327?style=for-the-badge&logo=linkedin" height="32" /></a>&nbsp;&nbsp;
-  
   <a href="mailto:aaradhyab2006@gmail.com"><img src="https://img.shields.io/badge/Email-1e2327?style=for-the-badge&logo=gmail" height="32" /></a>
 </p>
