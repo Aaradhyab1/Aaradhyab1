@@ -16,4 +16,9 @@ I’m a developer and a **CSE student** with experience in building **backend ar
   <img src="https://img.shields.io/badge/CSS3-1e2327?style=for-the-badge&logo=css3" height="32" />
 </p>
 
+# 🚀 Projects & Impact
+
+*   **defeX** 🏭: Developed an anomaly detection edge server for manufacturing—recognized as a **National Finalist** at the Ignisia Hackathon.
+*   **Retentio** 🧠: Engineering a productivity system that recalibrates personal memory stability using the **FSRS (Free Spaced Repetition Scheduler)** algorithm.
+*   **Semantic** 🔍: Leveraging AI/ML integration to solve complex real-world problems through advanced semantic understanding and data processing.
 
