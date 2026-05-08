@@ -22,7 +22,7 @@
   
 *   **Retentio** : A system that uses the FSRS algorithm to map the memory decay curve. Optimizes active recall and spaced repetition, which inturn helps in  retention.
   
-*   **Semantic** : Engineering AI/ML pipelines to solve real-world bottlenecks by extracting text and transforming unstructured data into actonable insights.
+*   **Semantic** : Engineering AI/ML pipelines to solve real-world bottlenecks by extracting text and transforming unstructured data into actionable insights.
 
 
 ## 💼 Leadership
