@@ -27,7 +27,7 @@ An IOS student developer and a **CSE student** with experience in building **bac
 
 ## 💼 Leadership
 
-* **Software Head @ Innovation Hub**, **Technical Head @ R.I.D.E. 2025**, and **Core Crew @ LocalHost HQ** (AI Festival).
+* **Technical Head @ Innovation Hub**, **Technical Head @ R.I.D.E. 2025**, and **Core Crew @ LocalHost HQ** (AI Festival).
 
 ## 📬 Socials
 
