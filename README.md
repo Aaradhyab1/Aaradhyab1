@@ -1,6 +1,6 @@
 # <h1 align="center">I'm Aaradhya</h1>
 
- A developer and a **CSE student** with experience in building **backend architectures** and focused on problem solving through DSA . Currently, I'm bridging that experience into **AI/ML** to have an actual impact on real-world problems.
+An IOS student developer and a **CSE student** with experience in building **backend architectures** and focused on problem solving through DSA . Currently, I'm bridging that experience into **AI/ML** to have an actual impact on real-world problems.
 
 
 ## 🛠️ Stack
